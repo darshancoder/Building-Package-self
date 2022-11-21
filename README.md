@@ -1,65 +1,60 @@
 # Building-Package-self
 I am Creating Posting Package to NPM by using Javascript my self  Learning From Masai-School
 
-## Add Package
-```
-npm install @darshan_kale/creating
+Made a Packge for Learning
+
+[link](https://www.npmjs.com/package/@darshan_kale/creating?activeTab=readme)
+
+
+### Npm Install 
+``` 
+npm i @darshan_kale/creating
 
 ```
+
+### Usage
+```js
+
 
 ## Addtion
-<const sum = require("@darshan_kale/creating")>
-<console.log(sum(8,5))>
+const sum = require("@darshan_kale/creating")
+var ans = sum(5,10)
+console.log(ans)
+// 15
 
 ## Substartion
-<const sub = require("@darshan_kale/creating")>
-<console.log(sub(4,5))>
+const sub = require("@darshan_kale/creating")
+var ans = sub(5,10)
+
+console.log(ans)
+// 5
 
 ## Multiplication
-<const multi = require("@darshan_kale/creating")>
-<console.log(multi(4,5))>
+const multi = require("@darshan_kale/creating")
+var ans = multi(5,10)
+
+console.log(ans)
+// 50
 
 ## Division
-<const div = require("@darshan_kale/creating")>
-<console.log(div(4,5))>
+const div = require("@darshan_kale/creating")
+var ans = div(5,10)
 
-#  Heading H1
-## Heading H2
-### Heading H3
+console.log(ans)
+//0.5
+```
 
+### API
+```
+fuction sum(a:number,b:number)=>
+number
+```
 
-### Lists 
-- List Item 1
-- **List Item 2** Bold
-- *List Item 3* Italic
-
-### Code Block
-- ```
-- ``` js
-- var vaibleName ="abc"
+### Maintainers `Darshan S. Kale`
+- [darshancoder](https://github.com/darshancoder)
 
 ### Images
-![Masai Logo](https://d3nn873nee648n.cloudfront.net/900x600/19567/300-SM942785.jpg)
-
-- Link 
-[Masai School](https://course.masaischool.com/lectures/41470)
-
-
-## Todo
-- [x]
-- [ ]
-
-## `Highlighted Text`
-> Quoute
-
-
-| Level | Description|
-|:----: | :----------:
-| `0`   | Darshan    |
-| `1`   | Vaibhv     |
-| `2`   | Kitty      |
-| `3`   | Rushi      |
-
+![Masai Logo](https://cdn.quotesgram.com/img/87/61/500108684-craig-bruce-craig-bruce-programming-is-a-four-letter.jpg)
 
 ## Convert NPMJS
 ## `npm adduser`

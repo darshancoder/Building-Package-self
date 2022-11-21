@@ -1,6 +1,6 @@
 {
   "name": "@darshan_kale/creating",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Creating Self Package",
   "main": "index.js",
   "scripts": {
